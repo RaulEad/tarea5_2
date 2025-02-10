@@ -1,3 +1,5 @@
+//Modificado por Raúl Miras para DAW
+
 // Creado por Raúl Miras Vidal
 
  // Función para generar una clave aleatoria de 5 caracteres
